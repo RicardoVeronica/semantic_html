@@ -1,0 +1,7 @@
+div {
+    background: orange;
+}
+
+span, img {
+    background: yellow;
+}
