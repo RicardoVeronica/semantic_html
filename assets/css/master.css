@@ -1,7 +1,6 @@
-/* div { */
-/*     background: orange; */
-/* } */
-
-/* span, img { */
-/*     background: yellow; */
-/* } */
+/* Reset de pagina */
+*, *::after, *::before {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
